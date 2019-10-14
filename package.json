@@ -1,0 +1,16 @@
+{
+  "name": "firstmb",
+  "version": "1.0.0",
+  "description": "MyFirstMountebank",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Sushant",
+  "license": "ISC",
+  "dependencies": {
+    "mountebank": "^2.1.0",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {}
+}
